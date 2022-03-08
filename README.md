@@ -1,2 +1,2 @@
 # js-ternary01
-JS Ternary test 1
+What is up?
